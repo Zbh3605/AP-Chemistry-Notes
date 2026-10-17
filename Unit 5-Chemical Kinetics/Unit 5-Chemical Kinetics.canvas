@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"465c333cd4f36565","type":"text","text":"[[1.1 Types of Rates-Unit 5]]","x":430,"y":-420,"width":250,"height":60},
+		{"id":"7a2a7bd2eeec425c","type":"text","text":"[[1.1.1 Average Rate-Unit 5]]","x":745,"y":-420,"width":250,"height":60},
+		{"id":"97f0cfa99e18717c","type":"text","text":"[[1.1.2 Instantaneous Rate-Unit 5]]","x":745,"y":-320,"width":250,"height":60},
+		{"id":"28d619f9e3a92092","type":"text","text":"[[1.1.3 Initial Rate-Unit 5]]","x":745,"y":-220,"width":250,"height":60},
+		{"id":"e38dc35eb3ac4f34","type":"text","text":"[[0. Overall-Unit 5]]","x":-185,"y":-100,"width":250,"height":60},
+		{"id":"2a965fd311c0a30b","type":"text","text":" [[1. Reaction Rates-Unit 5]]","x":120,"y":-100,"width":250,"height":60},
+		{"id":"777ba3a50aa60f91","type":"text","text":"[[3. 反应速率的影响因素-Unit 5]]","x":430,"y":-100,"width":250,"height":60},
+		{"id":"ccadacc333c3a070","type":"text","text":"[[1.2 系数比计算速率-Unit 5]]","x":430,"y":20,"width":250,"height":60},
+		{"id":"78345055cf39eead","type":"text","text":"# Unit 5-Chemical Kinetics","x":240,"y":-520,"width":380,"height":60}
+	],
+	"edges":[
+		{"id":"6663341400bb2afb","fromNode":"465c333cd4f36565","fromSide":"right","toNode":"7a2a7bd2eeec425c","toSide":"left"},
+		{"id":"705341d249542107","fromNode":"465c333cd4f36565","fromSide":"bottom","toNode":"97f0cfa99e18717c","toSide":"left"},
+		{"id":"0f81a8d42780d30b","fromNode":"465c333cd4f36565","fromSide":"bottom","toNode":"28d619f9e3a92092","toSide":"left"},
+		{"id":"1cf0da393fda08dc","fromNode":"2a965fd311c0a30b","fromSide":"top","toNode":"465c333cd4f36565","toSide":"left"},
+		{"id":"90060d252b31e338","fromNode":"2a965fd311c0a30b","fromSide":"right","toNode":"777ba3a50aa60f91","toSide":"left"},
+		{"id":"58b460e129503323","fromNode":"2a965fd311c0a30b","fromSide":"bottom","toNode":"ccadacc333c3a070","toSide":"left"},
+		{"id":"44dfce84629b574f","fromNode":"e38dc35eb3ac4f34","fromSide":"right","toNode":"2a965fd311c0a30b","toSide":"left"}
+	]
+}
